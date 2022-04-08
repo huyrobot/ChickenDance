@@ -2,7 +2,7 @@
 GAME CHICKEN DANCE
 ==================
 
-* Hướng dẫn chơi
+* Hướng dẫn chơi (cài đặt java trước khi mở game)
 - Mở file Chicken Dance.exe để mở game
 - Ấn phím space để bắt đầu trò chơi
 - Ấn phím space để nhảy, khi nhảy qua 1 cột gai sẽ cộng 1 điểm
